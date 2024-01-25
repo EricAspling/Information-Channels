@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: Python (Github)
+title: Information Channels Github Repository
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -11,7 +11,7 @@ authors:
   - given-names: Eric
     family-names: Aspling
     email: easplin1@binghamton.edu
-    name-particle: Eric
+    name-particle:
     affiliation: 'Binghamton University '
     orcid: 'https://orcid.org/0000-0002-0325-5952'
 repository-code: 'https://github.com/EricAspling/Information-Channels'
